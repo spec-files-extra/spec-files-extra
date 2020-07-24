@@ -5,5 +5,7 @@ This will be made the new master repository for spec files. The old repository o
 
 If you can help setting up this git repository, please drop me a note on sfepackages@gmail.com or on twitter @sfepackages
 
+For news see the workbench articles on the blog: https://sfe.opencsw.org
+
 Regards
 tomww
